@@ -1,0 +1,38 @@
+.contact-home {
+    background-color: skyblue;
+}
+.wash-about {
+    font-family: cursive;
+    font-size: 15px;
+    text-decoration-line: underline;
+    font-weight: bolder;
+}
+.wash-pics {
+    font-family: cursive;
+    font-size: 15px;
+    text-decoration-line: underline;
+    font-weight: bolder;
+}
+.contact-info {
+    color: whitesmoke;
+    font-size: 32px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-weight: bolder;
+    font-family: cursive;
+}
+.contact-prompt {
+    font-size: 21px;
+    text-align: center;
+    font-family: cursive;
+}
+.phone1 {
+    font-size: 17px;
+    text-align: left;
+    font-family: cursive;
+}
+.email1 {
+    font-size: 17px;
+    text-align: left;
+    font-family: cursive;
+}
